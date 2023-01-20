@@ -1,2 +1,2 @@
 # AnalisedeDadoseEmail
- Programa que analisar uma base de dados e retorna informações sobre faturamento por loja e produto e quantidade de vendida. As informações são enviadas para o e-mail de forma intuitiva e de fácil compreensão.
+Este programa oferece uma análise precisa da base de dados de vendas de uma loja, fornecendo dados sobre o faturamento e a quantidade de produtos vendidos por unidade. As informações são entregues de forma automatizada por e-mail para o destinatário configurado.
